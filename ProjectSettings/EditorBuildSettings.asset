@@ -9,20 +9,17 @@ EditorBuildSettings:
     path: Assets/Scenes/Home.unity
     guid: 343e44e2ba179854d8d5280956577d9c
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/SelectScene/Select_apple.unity
+    guid: 7529101368a41e949b901ef4f5c662e0
   - enabled: 1
-    path: Assets/Scenes/SelectScene/Scene_apple.unity
-    guid: b58dece07a9c90c4abd1026b05630c22
+    path: Assets/Scenes/SelectScene/Select_egg.unity
+    guid: a353ba429abfe6a419123b0b56edd791
   - enabled: 1
-    path: Assets/Scenes/SelectScene/Scene_egg.unity
-    guid: 9b3af5e38da586943b8679a58c2bcf18
+    path: Assets/Scenes/SelectScene/Select_ghost.unity
+    guid: e47556ca8cce6a643aed9e740dc36157
   - enabled: 1
-    path: Assets/Scenes/SelectScene/Scene_ghost.unity
-    guid: 9ba88623c9db2db49a9ed8f61552b2a3
-  - enabled: 1
-    path: Assets/Scenes/SelectScene/Scene_grape.unity
-    guid: 7756a6e5beac0834db3eb5098f0a8478
+    path: Assets/Scenes/SelectScene/Select_grape.unity
+    guid: 878545d678b1cce42a40e0bed46bbb02
   - enabled: 1
     path: Assets/Scenes/PlayScene/Play_apple.unity
     guid: d2254c6eec1276044a2c2da1f47cbe7d
